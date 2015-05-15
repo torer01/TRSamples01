@@ -10,6 +10,7 @@ namespace TRConsole01
     {
         static void Main(string[] args)
         {
+// line 1
         }
     }
 }
